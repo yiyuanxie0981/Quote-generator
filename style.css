@@ -25,6 +25,7 @@ body {
 }
 
 .name {
+    width: 100%;
     color: rgb(213, 184, 214);
 }
 .quote-container {

@@ -62,6 +62,5 @@ async function getQuote() {
 }
 
 // On Load
-// getQuote();
+getQuote();
 // loading();
-complete()
